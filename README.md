@@ -8,16 +8,16 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
-* [Testing Azure Functions on Azure DevOps – part 2: the pipeline](https:&#x2F;&#x2F;www.davideguida.com&#x2F;testing-azure-functions-on-azure-devops-part-2-the-pipeline&#x2F;)
-* [Handling long-running operations with Azure Durable Entities](https:&#x2F;&#x2F;www.davideguida.com&#x2F;handling-long-running-operations-with-azure-durable-entities&#x2F;)
-* [Testing Azure Functions on Azure DevOps – part 1: setup](https:&#x2F;&#x2F;www.davideguida.com&#x2F;testing-azure-functions-on-azure-devops-part-1-setup&#x2F;)
-* [Blazor GameDev – part 9: introducing the Finite State Machine](https:&#x2F;&#x2F;www.davideguida.com&#x2F;blazor-gamedev-part-9-finite-state-machine&#x2F;)
-* [Event Sourcing on Azure – part 1: architecture plan](https:&#x2F;&#x2F;www.davideguida.com&#x2F;event-sourcing-on-azure-part-1-architecture-plan&#x2F;)
-* [MediatR: how to use Decorators to add retry policies](https:&#x2F;&#x2F;www.davideguida.com&#x2F;mediatr-how-to-use-decorators-to-add-retry-policies&#x2F;)
-* [How to use Azure Durable Entities to see who’s the strongest Avenger](https:&#x2F;&#x2F;www.davideguida.com&#x2F;how-to-use-azure-durable-entities-to-see-whos-the-strongest-avenger&#x2F;)
-* [Azure Logic Apps: a recipe to handle failures gracefully](https:&#x2F;&#x2F;www.davideguida.com&#x2F;azure-logic-apps-a-recipe-to-handle-failures-gracefully&#x2F;)
-* [Blazor GameDev – part 8: keyboard input](https:&#x2F;&#x2F;www.davideguida.com&#x2F;blazor-gamedev-part-8-keyboard-control-animations&#x2F;)
-* [Blazor GameDev – part 7: animations](https:&#x2F;&#x2F;www.davideguida.com&#x2F;blazor-gamedev-part-7-animations&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;iv-yzIShapM&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 2: the Server](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;JtSkCtmMy0g&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 1: the UI](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;8-TMUFOr5h0&#x2F;)
+* [CHIP-8 emulation with C# and Blazor - part 3](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;5cXtY8CeNrg&#x2F;)
+* [How to automate keys renewal on Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;0l0FI00sqRI&#x2F;)
+* [Azure API Management Healthcheck via Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;gG_URpb9RmM&#x2F;)
+* [CHIP-8 emulation with C# and Blazor - part 2](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;TnZjpN-6nqA&#x2F;)
+* [CHIP-8 emulation with C# and Blazor - part 1](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;ygKpENjjBMk&#x2F;)
+* [How to use Sagas to process orders - part 2](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;xjynBWJShm4&#x2F;)
+* [How to use Sagas to process orders - part 1](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;6yLGpLO3AA0&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
