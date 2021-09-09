@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: http://feeds.feedburner.com/davideguida
+          feed-url: http://feeds.feedburner.com/DavidGuida
           readme-section: feed
           max: 10
           template: "* [{{ title }}]({{ link }}) \n"
