@@ -8,6 +8,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Distributed Priority Queues](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;ULh1TaD3l8I&#x2F;)
 * [DI-Friendly Factory Pattern](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;7fMSbTW8d44&#x2F;)
 * [Coming back to life](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;gr4HSfdqecw&#x2F;)
 * [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;iv-yzIShapM&#x2F;)
@@ -17,7 +18,6 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [How to automate keys renewal on Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;0l0FI00sqRI&#x2F;)
 * [Azure API Management Healthcheck via Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;gG_URpb9RmM&#x2F;)
 * [CHIP-8 emulation with C# and Blazor - part 2](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;TnZjpN-6nqA&#x2F;)
-* [CHIP-8 emulation with C# and Blazor - part 1](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;ygKpENjjBMk&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
