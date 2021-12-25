@@ -8,16 +8,16 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
-* [Distributed Priority Queues](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;ULh1TaD3l8I&#x2F;)
-* [DI-Friendly Factory Pattern](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;7fMSbTW8d44&#x2F;)
-* [Coming back to life](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;gr4HSfdqecw&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;iv-yzIShapM&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 2: the Server](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;JtSkCtmMy0g&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 1: the UI](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;8-TMUFOr5h0&#x2F;)
-* [CHIP-8 emulation with C# and Blazor - part 3](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;5cXtY8CeNrg&#x2F;)
-* [How to automate keys renewal on Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;0l0FI00sqRI&#x2F;)
-* [Azure API Management Healthcheck via Azure Functions](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;gG_URpb9RmM&#x2F;)
-* [CHIP-8 emulation with C# and Blazor - part 2](http:&#x2F;&#x2F;feedproxy.google.com&#x2F;~r&#x2F;DavidGuida&#x2F;~3&#x2F;TnZjpN-6nqA&#x2F;)
+* [My Event Sourcing journey so far](https:&#x2F;&#x2F;www.davidguida.net&#x2F;my-event-sourcing-journey-so-far&#x2F;)
+* [Data-driven refactoring of a big IF-ELSE block](https:&#x2F;&#x2F;www.davidguida.net&#x2F;refactoring-if-else&#x2F;)
+* [Distributed Priority Queues](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-priority-queues&#x2F;)
+* [DI-Friendly Factory Pattern](https:&#x2F;&#x2F;www.davidguida.net&#x2F;di-friendly-factory-pattern&#x2F;)
+* [Coming back to life](https:&#x2F;&#x2F;www.davidguida.net&#x2F;coming-back-to-life&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-3&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 2: the Server](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-2&#x2F;)
+* [How to handle file uploads with Blazor and Azure Blob Storage - part 1: the UI](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-1&#x2F;)
+* [CHIP-8 emulation with C# and Blazor - part 3](https:&#x2F;&#x2F;www.davidguida.net&#x2F;chip8-emulator-csharp-net-core-blazor-part3&#x2F;)
+* [How to automate keys renewal on Azure Functions](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-function-automatic-keys-renewal&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
