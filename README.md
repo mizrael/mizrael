@@ -8,6 +8,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Event Sourcing: 5 things to consider when approaching it](https:&#x2F;&#x2F;www.davidguida.net&#x2F;event-sourcing-things-to-consider)
 * [.NET How-Tos: find all application Assemblies](https:&#x2F;&#x2F;www.davidguida.net&#x2F;how-to-find-all-application-assemblies)
 * [My Event Sourcing journey so far](https:&#x2F;&#x2F;www.davidguida.net&#x2F;my-event-sourcing-journey-so-far&#x2F;)
 * [Data-driven refactoring of a big IF-ELSE block](https:&#x2F;&#x2F;www.davidguida.net&#x2F;refactoring-if-else&#x2F;)
@@ -17,7 +18,6 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-3&#x2F;)
 * [How to handle file uploads with Blazor and Azure Blob Storage - part 2: the Server](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-2&#x2F;)
 * [How to handle file uploads with Blazor and Azure Blob Storage - part 1: the UI](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-1&#x2F;)
-* [CHIP-8 emulation with C# and Blazor - part 3](https:&#x2F;&#x2F;www.davidguida.net&#x2F;chip8-emulator-csharp-net-core-blazor-part3&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
