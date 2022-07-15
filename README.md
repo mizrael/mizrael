@@ -8,16 +8,16 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Is Dependency Injection dead? - Part 2: Service Lifetimes](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-2-service-lifetimes)
+* [Is Dependency Injection dead? - Part 1](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-1)
+* [Are Design Patterns dead?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead)
+* [How to add Azure Key Vault to an Azure Function](https:&#x2F;&#x2F;www.davidguida.net&#x2F;how-to-add-keyvault-to-azure-function)
 * [Event Sourcing: 5 things to consider when approaching it](https:&#x2F;&#x2F;www.davidguida.net&#x2F;event-sourcing-things-to-consider)
 * [.NET How-Tos: find all application Assemblies](https:&#x2F;&#x2F;www.davidguida.net&#x2F;how-to-find-all-application-assemblies)
 * [My Event Sourcing journey so far](https:&#x2F;&#x2F;www.davidguida.net&#x2F;my-event-sourcing-journey-so-far&#x2F;)
 * [Data-driven refactoring of a big IF-ELSE block](https:&#x2F;&#x2F;www.davidguida.net&#x2F;refactoring-if-else&#x2F;)
 * [Distributed Priority Queues](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-priority-queues&#x2F;)
 * [DI-Friendly Factory Pattern](https:&#x2F;&#x2F;www.davidguida.net&#x2F;di-friendly-factory-pattern&#x2F;)
-* [Coming back to life](https:&#x2F;&#x2F;www.davidguida.net&#x2F;coming-back-to-life&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 3: large files](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-3&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 2: the Server](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-2&#x2F;)
-* [How to handle file uploads with Blazor and Azure Blob Storage - part 1: the UI](https:&#x2F;&#x2F;www.davidguida.net&#x2F;blazor-file-upload-azure-blob-storage-part-1&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
