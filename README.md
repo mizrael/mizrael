@@ -8,16 +8,16 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Are design patterns dead? The Singleton problem](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead-singleton)
+* [Microservices or Monolith, what to pick?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;microservices-or-monolith-what-to-pick)
+* [What does a Compensating Transaction do?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;what-does-a-compensating-transaction-do)
+* [Why would you send your messages twice?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;why-would-you-send-messages-twice)
+* [Are you sure you want to land that job?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-you-sure-you-want-to-land-that-job)
+* [Azure Functions with Managed Identities - Part 2: access to KeyVaults](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-managed-identities-functions-part-2)
+* [Azure Functions with Managed Identities - Part 1](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-managed-identities-functions-part-1)
+* [Is Dependency Injection dead? - Part 3: Anti-Patterns](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-3-anti-patterns)
 * [Is Dependency Injection dead? - Part 2: Service Lifetimes](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-2-service-lifetimes)
 * [Is Dependency Injection dead? - Part 1](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-1)
-* [Are Design Patterns dead?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead)
-* [How to add Azure Key Vault to an Azure Function](https:&#x2F;&#x2F;www.davidguida.net&#x2F;how-to-add-keyvault-to-azure-function)
-* [Event Sourcing: 5 things to consider when approaching it](https:&#x2F;&#x2F;www.davidguida.net&#x2F;event-sourcing-things-to-consider)
-* [.NET How-Tos: find all application Assemblies](https:&#x2F;&#x2F;www.davidguida.net&#x2F;how-to-find-all-application-assemblies)
-* [My Event Sourcing journey so far](https:&#x2F;&#x2F;www.davidguida.net&#x2F;my-event-sourcing-journey-so-far&#x2F;)
-* [Data-driven refactoring of a big IF-ELSE block](https:&#x2F;&#x2F;www.davidguida.net&#x2F;refactoring-if-else&#x2F;)
-* [Distributed Priority Queues](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-priority-queues&#x2F;)
-* [DI-Friendly Factory Pattern](https:&#x2F;&#x2F;www.davidguida.net&#x2F;di-friendly-factory-pattern&#x2F;)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
