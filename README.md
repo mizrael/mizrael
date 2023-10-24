@@ -8,6 +8,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [EvenireDB part 1: what and why?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;eveniredb-part-1-what-and-why)
 * [Handling long-running operations in a .NET Background Service](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-backgroundservice-long-running-operations)
 * [Thread-safety on MemoryCache](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-thread-safety-memorycache)
 * [Are design patterns dead? The Singleton problem](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead-singleton)
@@ -17,7 +18,6 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Are you sure you want to land that job?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-you-sure-you-want-to-land-that-job)
 * [Azure Functions with Managed Identities - Part 2: access to KeyVaults](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-managed-identities-functions-part-2)
 * [Azure Functions with Managed Identities - Part 1](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-managed-identities-functions-part-1)
-* [Is Dependency Injection dead? - Part 3: Anti-Patterns](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-dependency-injection-dead-part-3-anti-patterns)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
