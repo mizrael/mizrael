@@ -8,6 +8,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Landing IT Jobs Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;landing-it-jobs-made-easy)
 * [Distributed Transactions Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-transactions-made-easy)
 * [EvenireDB part 1: what and why?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;eveniredb-part-1-what-and-why)
 * [Handling long-running operations in a .NET Background Service](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-backgroundservice-long-running-operations)
@@ -17,7 +18,6 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [What does a Compensating Transaction do?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;what-does-a-compensating-transaction-do)
 * [Why would you send your messages twice?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;why-would-you-send-messages-twice)
 * [Are you sure you want to land that job?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-you-sure-you-want-to-land-that-job)
-* [Azure Functions with Managed Identities - Part 2: access to KeyVaults](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-managed-identities-functions-part-2)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
