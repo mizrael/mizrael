@@ -8,6 +8,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
 * [Landing IT Jobs Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;landing-it-jobs-made-easy)
 * [Distributed Transactions Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-transactions-made-easy)
 * [EvenireDB part 1: what and why?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;eveniredb-part-1-what-and-why)
@@ -17,7 +18,6 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Microservices or Monolith, what to pick?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;microservices-or-monolith-what-to-pick)
 * [What does a Compensating Transaction do?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;what-does-a-compensating-transaction-do)
 * [Why would you send your messages twice?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;why-would-you-send-messages-twice)
-* [Are you sure you want to land that job?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-you-sure-you-want-to-land-that-job)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
