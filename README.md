@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David Guida, Senior Software Engineer @ Microsoft and creator of [OpenSleigh](https://github.com/mizrael/OpenSleigh). I blog quite regularly on [my personal website](https://www.davidguida.net).
+I'm David Guida, Senior Software Engineer @ Microsoft and creator of [EvenireDB](https://github.com/mizrael/eveniredb) and [OpenSleigh](https://github.com/mizrael/OpenSleigh). I blog quite regularly on [my personal website](https://www.davidguida.net).
 
 You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davideguida/)](https://www.linkedin.com/in/davideguida/) or on
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davideguida82)](https://twitter.com/davideguida82) .
