@@ -1,12 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm David Guida, Senior Software Engineer @ Microsoft and creator of [EvenireDB](https://github.com/mizrael/eveniredb) and [OpenSleigh](https://github.com/mizrael/OpenSleigh). I blog quite regularly on [my personal website](https://www.davidguida.net).
 
 You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davideguida/)](https://www.linkedin.com/in/davideguida/) or on
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davideguida82)](https://twitter.com/davideguida82) .
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizrael&show_icons=true&hide_rank=true&include_all_commits&show_owner&theme=react)
 
-#### 📗 Recent blog posts
+
+### 📗 Recent blog posts
 <!--START_SECTION:feed-->
 * [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
 * [Landing IT Jobs Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;landing-it-jobs-made-easy)
@@ -20,22 +22,3 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Why would you send your messages twice?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;why-would-you-send-messages-twice)
 <!--END_SECTION:feed-->
 
-#### 💹 Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=mizrael&show_icons=true&hide_border=true)
-
-
-<!--
-**mizrael/mizrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
