@@ -10,6 +10,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 ### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [What’s a Topic and how can we implement it using Azure Storage Queues?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-storage-topics)
 * [How to generate Code Coverage for a .NET Solution](https:&#x2F;&#x2F;www.davidguida.net&#x2F;dotnet-code-coverage-github-action)
 * [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
 * [Landing IT Jobs Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;landing-it-jobs-made-easy)
@@ -19,6 +20,5 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Thread-safety on MemoryCache](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-thread-safety-memorycache)
 * [Are design patterns dead? The Singleton problem](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead-singleton)
 * [Microservices or Monolith, what to pick?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;microservices-or-monolith-what-to-pick)
-* [What does a Compensating Transaction do?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;what-does-a-compensating-transaction-do)
 <!--END_SECTION:feed-->
 
