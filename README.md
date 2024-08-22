@@ -10,6 +10,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 ### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [AI Home Automation with Semantic Kernel part 1: introduction](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2024-08-21-ai-home-automation-with-semantic-kernel-part-1)
 * [What’s a Topic and how can we implement it using Azure Storage Queues?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-storage-topics)
 * [How to generate Code Coverage for a .NET Solution](https:&#x2F;&#x2F;www.davidguida.net&#x2F;dotnet-code-coverage-github-action)
 * [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
@@ -19,6 +20,5 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Handling long-running operations in a .NET Background Service](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-backgroundservice-long-running-operations)
 * [Thread-safety on MemoryCache](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-thread-safety-memorycache)
 * [Are design patterns dead? The Singleton problem](https:&#x2F;&#x2F;www.davidguida.net&#x2F;are-design-patterns-dead-singleton)
-* [Microservices or Monolith, what to pick?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;microservices-or-monolith-what-to-pick)
 <!--END_SECTION:feed-->
 
