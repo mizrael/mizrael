@@ -10,6 +10,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 ### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Building Resilient Systems Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;building-resilient-systems-made-easy)
 * [AI Home Automation with Semantic Kernel part 2: let’s see some code!](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2024-09-10-ai-home-automation-with-semantic-kernel-part-2)
 * [AI Home Automation with Semantic Kernel part 1: introduction](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2024-08-21-ai-home-automation-with-semantic-kernel-part-1)
 * [What’s a Topic and how can we implement it using Azure Storage Queues?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-storage-topics)
@@ -19,6 +20,5 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Distributed Transactions Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-transactions-made-easy)
 * [EvenireDB part 1: what and why?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;eveniredb-part-1-what-and-why)
 * [Handling long-running operations in a .NET Background Service](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-backgroundservice-long-running-operations)
-* [Thread-safety on MemoryCache](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2023-09-21-thread-safety-memorycache)
 <!--END_SECTION:feed-->
 
