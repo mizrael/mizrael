@@ -10,6 +10,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 ### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Riverdam - Feature Gates Finally Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;riverdam-feature-gates-finally-made-easy)
 * [Are you using Dictionaries correctly?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;dictionary-lookup-performance)
 * [Building Resilient Systems Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;building-resilient-systems-made-easy)
 * [AI Home Automation with Semantic Kernel part 2: let’s see some code!](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2024-09-10-ai-home-automation-with-semantic-kernel-part-2)
@@ -19,6 +20,5 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
 * [Landing IT Jobs Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;landing-it-jobs-made-easy)
 * [Distributed Transactions Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;distributed-transactions-made-easy)
-* [EvenireDB part 1: what and why?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;eveniredb-part-1-what-and-why)
 <!--END_SECTION:feed-->
 
