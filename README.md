@@ -10,6 +10,7 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 
 ### 📗 Recent blog posts
 <!--START_SECTION:feed-->
+* [Vibecoding and the art of solving my wife’s problems](https:&#x2F;&#x2F;www.davidguida.net&#x2F;vibecoding-wife-problems)
 * [Is AI stealing my job?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;is-ai-stealing-my-job)
 * [How to set the SKU of an Azure SQL Server using Aspire](https:&#x2F;&#x2F;www.davidguida.net&#x2F;aspire-azure-sql-server-sku)
 * [Riverdam - Feature Gates Finally Made Easy](https:&#x2F;&#x2F;www.davidguida.net&#x2F;riverdam-feature-gates-finally-made-easy)
@@ -19,6 +20,5 @@ You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Link
 * [AI Home Automation with Semantic Kernel part 1: introduction](https:&#x2F;&#x2F;www.davidguida.net&#x2F;2024-08-21-ai-home-automation-with-semantic-kernel-part-1)
 * [What’s a Topic and how can we implement it using Azure Storage Queues?](https:&#x2F;&#x2F;www.davidguida.net&#x2F;azure-storage-topics)
 * [How to generate Code Coverage for a .NET Solution](https:&#x2F;&#x2F;www.davidguida.net&#x2F;dotnet-code-coverage-github-action)
-* [Comparing lookup performance in .NET](https:&#x2F;&#x2F;www.davidguida.net&#x2F;lookup-performance)
 <!--END_SECTION:feed-->
 
